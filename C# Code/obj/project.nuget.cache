@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9NMpX+OQqj7l4GBdegURHIZEx46aWuh/X+DvwNjCox87o40gGel4rQPAC6sziSOQz2eIZV4FEr/uf/vsJWWLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Orhun\\Desktop\\C# Code\\MSP430_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics\\4.3.0\\app.metrics.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics.abstractions\\4.3.0\\app.metrics.abstractions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics.concurrency\\4.3.0\\app.metrics.concurrency.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics.core\\4.3.0\\app.metrics.core.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics.formatters.ascii\\4.3.0\\app.metrics.formatters.ascii.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\app.metrics.formatters.json\\4.3.0\\app.metrics.formatters.json.4.3.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\circulargauge\\1.0.0\\circulargauge.1.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\circularprogressbar\\2.8.0.16\\circularprogressbar.2.8.0.16.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.1\\runtime.native.system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\system.io.ports\\5.0.1\\system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Orhun\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CircularGauge 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CircularGauge",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CircularProgressBar 2.8.0.16' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "CircularProgressBar",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
