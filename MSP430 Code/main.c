@@ -26,7 +26,7 @@ void main(void)
     P1SEL = BIT1|BIT2;                      // Select UART RX/TX function on P1.1,P1.2
     P1SEL2 = BIT1|BIT2;
 
-    P2DIR = BIT0 + BIT1 + BIT3 + BIT4 + BIT5;       // P2.0 P2.2 P2.2 P2.3 P2.4 output
+    P2DIR = BIT0 + BIT1 + BIT3 + BIT4 + BIT5;       // P2.0 P2.1 P2.2 P2.3 P2.4 output
     P2SEL = BIT1 + BIT4;                            // Timer_A1
     P2OUT &= ~BIT0 + ~BIT3 + ~BIT5;                 // P2.0 P2.3 P2.5 set to zero
 
