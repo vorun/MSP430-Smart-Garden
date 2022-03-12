@@ -1,5 +1,3 @@
-
-
 #include <msp430.h>                         // Define libraries
 #include <stdlib.h>
 #include <stdio.h>
