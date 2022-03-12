@@ -30,16 +30,16 @@ void main(void)
     P2SEL = BIT1 + BIT4;                            // Timer_A1
     P2OUT &= ~BIT0 + ~BIT3 + ~BIT5;
 
-    TA1CCR0 = 1000-1;                   // PWM period
-    TA1CCTL1 = OUTMOD_7;                //Mod7 reset/set
-    TA1CCTL2 = OUTMOD_7;                //Moo7 reset/set
-    TA1CTL = TASSEL_2 + MC_1;           // Timer SMCLK Modo UP
+    TA1CCR0 = 1000-1;                     // PWM period
+    TA1CCTL1 = OUTMOD_7;                  // Mod7 reset/set
+    TA1CCTL2 = OUTMOD_7;                  // Moo7 reset/set
+    TA1CTL = TASSEL_2 + MC_1;             // Timer SMCLK Modo UP
 
     UCA0CTL1 |= UCSWRST+UCSSEL_2;         // UART Clock -> SMCLK
-    UCA0BR0 = 104;                       // Baud Rate Setting for 1MHz 9600
-    UCA0BR1 = 0;                        // Baud Rate Setting for 1MHz 9600
-    UCA0MCTL = UCBRS_1;                 // Baud Rate Setting for 1MHz 9600
-    UCA0CTL1 &= ~UCSWRST;               // Initialize UART Module
+    UCA0BR0 = 104;                        // Baud Rate Setting for 1MHz 9600
+    UCA0BR1 = 0;                          // Baud Rate Setting for 1MHz 9600
+    UCA0MCTL = UCBRS_1;                   // Baud Rate Setting for 1MHz 9600
+    UCA0CTL1 &= ~UCSWRST;                 // Initialize UART Module
 
     ADC10CTL1 = INCH_4 + ADC10DIV_0 + CONSEQ_3 + SHS_0;                         // ADC Channel (P1.4), divider,  Repeat sequence of channels, Sample-and-hold source select
     ADC10CTL0 = REFON + REF2_5V + SREF_1 + ADC10SHT_3 + MSC + ADC10ON;          // Referance on, Reference-generator voltage (0 - 1.5V, 1-2.5V), Select reference,
@@ -71,7 +71,7 @@ void main(void)
         ser_output(vt_chara3);                       // Send analog 3 and space
         ser_output(space);
 
-        ser_output(vt_chara4);                       //Send analog 4 and space
+        ser_output(vt_chara4);                       // Send analog 4 and space
 
         __delay_cycles(3000000);                     // 3s delay
     }
