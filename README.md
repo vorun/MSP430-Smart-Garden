@@ -14,4 +14,5 @@ amount times which are 3 seconds, 7 seconds and 10 seconds.
 -Pin connections and circuit design/PCB of the project can be found at the 
 "C# Based Smart Gardener Final PCB" folder.
 
-Orhun Dabak/Ahmet Ozbaysar
+Orhun Dabak
+
