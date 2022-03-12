@@ -1,4 +1,4 @@
-//Authors: Orhun Dabak, Ahmet Ozbaysar
+
 
 #include <msp430.h>                         // Define libraries
 #include <stdlib.h>
