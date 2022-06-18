@@ -1,4 +1,4 @@
-19224333621168456
+19495736059425720
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76292,34 +76292,6 @@ rotary encoder
 0
 5
 4
-SamacSys_Parts
-163179PHEX
-163-179PH-EX
-Connector
-0
-3
-3
-SamacSys_Parts
-13019305
-1301.9305-1
-Switch
-0
-4
-4
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-WAT220101E
-WA-T220-101E
-Hardware
-0
-2
-2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -77748,6 +77720,1294 @@ Logo WEEE
 0
 0
 0
+TO_SOT_Packages_THT
+Allegro_CB_PFF
+Allegro MicroSystems, CB-PFF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx) !PADS 4-5 DO NOT MATCH DATASHEET!
+Allegro CB-PFF
+0
+37
+5
+TO_SOT_Packages_THT
+Allegro_CB_PSF
+Allegro MicroSystems, CB-PSF Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)
+Allegro CB-PSF
+0
+5
+5
+TO_SOT_Packages_THT
+Allegro_CB_PSS
+Allegro MicroSystems, CB-PSS Package (http://www.allegromicro.com/en/Products/Current-Sensor-ICs/Fifty-To-Two-Hundred-Amp-Integrated-Conductor-Sensor-ICs/ACS758.aspx)
+Allegro CB-PSS
+0
+5
+5
+TO_SOT_Packages_THT
+Fairchild_TO-220F-6L
+Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf
+Fairchild TO-220F-6L
+0
+6
+6
+TO_SOT_Packages_THT
+SIPAK-1EP_Horizontal
+SIPAK, Horizontal, RM 2.286mm
+SIPAK Horizontal RM 2.286mm
+0
+4
+4
+TO_SOT_Packages_THT
+SIPAK_Vertical
+SIPAK, Vertical, RM 2.286mm
+SIPAK Vertical RM 2.286mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-3
+Transistor TO-3
+TR TO-3 TO3 TO-204
+0
+4
+3
+TO_SOT_Packages_THT
+TO-3PB__Horizontal
+TO-3PB, Horizontal, RM 5.45mm, 
+TO-3PB Horizontal RM 5.45mm 
+0
+3
+3
+TO_SOT_Packages_THT
+TO-3PB__Vertical
+TO-3PB, Vertical, RM 5.45mm, 
+TO-3PB Vertical RM 5.45mm 
+0
+3
+3
+TO_SOT_Packages_THT
+TO-5-2
+TO-5-2
+TO-5-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-5-2_Window
+TO-5-2_Window, Window
+TO-5-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-5-3
+TO-5-3
+TO-5-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-5-3_Window
+TO-5-3_Window, Window
+TO-5-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-5-4
+TO-5-4
+TO-5-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-5-4_Window
+TO-5-4_Window, Window
+TO-5-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-5-6
+TO-5-6
+TO-5-6
+0
+6
+6
+TO_SOT_Packages_THT
+TO-5-6_Window
+TO-5-6_Window, Window
+TO-5-6_Window Window
+0
+6
+6
+TO_SOT_Packages_THT
+TO-5-8
+TO-5-8
+TO-5-8
+0
+8
+8
+TO_SOT_Packages_THT
+TO-5-8_PD5.08
+TO-5-8_PD5.08
+TO-5-8_PD5.08
+0
+8
+8
+TO_SOT_Packages_THT
+TO-5-8_PD5.08_Window
+TO-5-8_PD5.08_Window, Window
+TO-5-8_PD5.08_Window Window
+0
+8
+8
+TO_SOT_Packages_THT
+TO-5-8_Window
+TO-5-8_Window, Window
+TO-5-8_Window Window
+0
+8
+8
+TO_SOT_Packages_THT
+TO-5-10
+TO-5-10
+TO-5-10
+0
+10
+10
+TO_SOT_Packages_THT
+TO-5-10_Window
+TO-5-10_Window, Window
+TO-5-10_Window Window
+0
+10
+10
+TO_SOT_Packages_THT
+TO-8-2
+TO-8-2
+TO-8-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-8-2_Window
+TO-8-2_Window, Window
+TO-8-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-8-3
+TO-8-3
+TO-8-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-8-3_Window
+TO-8-3_Window, Window
+TO-8-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-11-2
+TO-11-2
+TO-11-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-11-2_Window
+TO-11-2_Window, Window
+TO-11-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-11-3
+TO-11-3
+TO-11-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-11-3_Window
+TO-11-3_Window, Window
+TO-11-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-12-4
+TO-12-4
+TO-12-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-12-4_Window
+TO-12-4_Window, Window
+TO-12-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-17-4
+TO-17-4
+TO-17-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-17-4_Window
+TO-17-4_Window, Window
+TO-17-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-18-2
+TO-18-2
+TO-18-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-18-2_Lens
+TO-18-2_Lens, Lens
+TO-18-2_Lens Lens
+0
+2
+2
+TO_SOT_Packages_THT
+TO-18-2_Window
+TO-18-2_Window, Window
+TO-18-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-18-3
+TO-18-3
+TO-18-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-18-3_Lens
+TO-18-3_Lens, Lens
+TO-18-3_Lens Lens
+0
+3
+3
+TO_SOT_Packages_THT
+TO-18-3_Window
+TO-18-3_Window, Window
+TO-18-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-18-4
+TO-18-4
+TO-18-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-18-4_Lens
+TO-18-4_Lens, Lens
+TO-18-4_Lens Lens
+0
+4
+4
+TO_SOT_Packages_THT
+TO-18-4_Window
+TO-18-4_Window, Window
+TO-18-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-33-4
+TO-33-4
+TO-33-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-33-4_Window
+TO-33-4_Window, Window
+TO-33-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-38-2
+TO-38-2
+TO-38-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-38-2_Window
+TO-38-2_Window, Window
+TO-38-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-38-3
+TO-38-3
+TO-38-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-38-3_Window
+TO-38-3_Window, Window
+TO-38-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-39-2
+TO-39-2
+TO-39-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-39-2_Window
+TO-39-2_Window, Window
+TO-39-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-39-3
+TO-39-3
+TO-39-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-39-3_Window
+TO-39-3_Window, Window
+TO-39-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-39-4
+TO-39-4
+TO-39-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-39-4_Window
+TO-39-4_Window, Window
+TO-39-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-39-6
+TO-39-6
+TO-39-6
+0
+6
+6
+TO_SOT_Packages_THT
+TO-39-6_Window
+TO-39-6_Window, Window
+TO-39-6_Window Window
+0
+6
+6
+TO_SOT_Packages_THT
+TO-39-8
+TO-39-8
+TO-39-8
+0
+8
+8
+TO_SOT_Packages_THT
+TO-39-8_Window
+TO-39-8_Window, Window
+TO-39-8_Window Window
+0
+8
+8
+TO_SOT_Packages_THT
+TO-39-10
+TO-39-10
+TO-39-10
+0
+10
+10
+TO_SOT_Packages_THT
+TO-39-10_Window
+TO-39-10_Window, Window
+TO-39-10_Window Window
+0
+10
+10
+TO_SOT_Packages_THT
+TO-46-2
+TO-46-2
+TO-46-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-46-2_Pin2Center
+TO-46-2, Pin2 at center of package, Thorlabs photodiodes
+TO-46-2 Thorlabs
+0
+2
+2
+TO_SOT_Packages_THT
+TO-46-2_Pin2Center_Window
+TO-46-2, Pin2 at center of package, Thorlabs photodiodes
+TO-46-2 Thorlabs
+0
+2
+2
+TO_SOT_Packages_THT
+TO-46-2_Window
+TO-46-2_Window, Window
+TO-46-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-46-3
+TO-46-3
+TO-46-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-46-3_Pin2Center
+TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
+TO-46-3 Thorlabs
+0
+3
+3
+TO_SOT_Packages_THT
+TO-46-3_Pin2Center_Window
+TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
+TO-46-3 Thorlabs
+0
+3
+3
+TO_SOT_Packages_THT
+TO-46-3_Window
+TO-46-3_Window, Window
+TO-46-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-46-4
+TO-46-4
+TO-46-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-46-4_Window
+TO-46-4_Window, Window
+TO-46-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-52-2
+TO-52-2
+TO-52-2
+0
+2
+2
+TO_SOT_Packages_THT
+TO-52-2_Window
+TO-52-2_Window, Window
+TO-52-2_Window Window
+0
+2
+2
+TO_SOT_Packages_THT
+TO-52-3
+TO-52-3
+TO-52-3
+0
+3
+3
+TO_SOT_Packages_THT
+TO-52-3_Window
+TO-52-3_Window, Window
+TO-52-3_Window Window
+0
+3
+3
+TO_SOT_Packages_THT
+TO-72-4
+TO-72-4
+TO-72-4
+0
+4
+4
+TO_SOT_Packages_THT
+TO-72-4_Window
+TO-72-4_Window, Window
+TO-72-4_Window Window
+0
+4
+4
+TO_SOT_Packages_THT
+TO-75-6
+TO-75-6
+TO-75-6
+0
+6
+6
+TO_SOT_Packages_THT
+TO-75-6_Window
+TO-75-6_Window, Window
+TO-75-6_Window Window
+0
+6
+6
+TO_SOT_Packages_THT
+TO-78-6
+TO-78-6
+TO-78-6
+0
+6
+6
+TO_SOT_Packages_THT
+TO-78-6_Window
+TO-78-6_Window, Window
+TO-78-6_Window Window
+0
+6
+6
+TO_SOT_Packages_THT
+TO-78-8
+TO-78-8
+TO-78-8
+0
+8
+8
+TO_SOT_Packages_THT
+TO-78-8_Window
+TO-78-8_Window, Window
+TO-78-8_Window Window
+0
+8
+8
+TO_SOT_Packages_THT
+TO-78-10
+TO-78-10
+TO-78-10
+0
+10
+10
+TO_SOT_Packages_THT
+TO-78-10_Window
+TO-78-10_Window, Window
+TO-78-10_Window Window
+0
+10
+10
+TO_SOT_Packages_THT
+TO-92-2pin_Inline_Narrow_Oval
+TO-92 2-pin leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 diode SOD70
+0
+2
+2
+TO_SOT_Packages_THT
+TO-92-2pin_Inline_Wide
+TO-92 2-pin leads in-line, wide, drill 0.8mm
+to-92 sc-43 sc-43a sot54 PA33 diode SOD70
+0
+2
+2
+TO_SOT_Packages_THT
+TO-92_Horizontal1_Inline_Narrow_Oval
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Horizontal1_Molded_Narrow
+TO-92 horizontal, leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Horizontal2_Inline_Narrow_Oval
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Horizontal2_Molded_Narrow
+TO-92 horizontal, leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Inline_Narrow_Oval
+TO-92 leads in-line, narrow, oval pads, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Inline_Wide
+TO-92 leads in-line, wide, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow
+TO-92 leads molded, narrow, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow_Oval
+TO-92 leads molded, narrow, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Narrow_Reverse
+TO-92 leads molded, narrow, reverse, drill 0.6mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Wide
+TO-92 leads molded, wide, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Oval
+TO-92 leads molded, wide, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Oval_Reverse
+TO-92 leads molded, wide, reverse, oval pads, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Molded_Wide_Reverse
+TO-92 leads molded, wide, reverse, drill 0.8mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Rugged
+TO-92 rugged, leads molded, wide, drill 1mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-92_Rugged_Reverse
+TO-92 rugged, leads molded, wide, reverse, drill 1mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+TO_SOT_Packages_THT
+TO-99-6
+TO-99-6
+TO-99-6
+0
+6
+6
+TO_SOT_Packages_THT
+TO-99-6_Window
+TO-99-6_Window, Window
+TO-99-6_Window Window
+0
+6
+6
+TO_SOT_Packages_THT
+TO-99-8
+TO-99-8
+TO-99-8
+0
+8
+8
+TO_SOT_Packages_THT
+TO-99-8_Window
+TO-99-8_Window, Window
+TO-99-8_Window Window
+0
+8
+8
+TO_SOT_Packages_THT
+TO-100-10
+TO-100-10
+TO-100-10
+0
+10
+10
+TO_SOT_Packages_THT
+TO-100-10_Window
+TO-100-10_Window, Window
+TO-100-10_Window Window
+0
+10
+10
+TO_SOT_Packages_THT
+TO-126-2_Horizontal
+TO-126-2, Horizontal, RM 5.08mm
+TO-126-2 Horizontal RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-126-2_Horizontal_Reversed
+TO-126-2, Horizontal, RM 5.08mm
+TO-126-2 Horizontal RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-126-2_Vertical
+TO-126-2, Vertical, RM 5.08mm
+TO-126-2 Vertical RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-126_Horizontal
+TO-126, Horizontal, RM 2.54mm
+TO-126 Horizontal RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-126_Horizontal_Reversed
+TO-126, Horizontal, RM 2.54mm
+TO-126 Horizontal RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-126_Vertical
+TO-126, Vertical, RM 2.54mm
+TO-126 Vertical RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-218-2_SOT93_Horizontal
+TO-218-2, Horizontal, RM 10.94mm, SOT93
+TO-218-2 Horizontal RM 10.94mm SOT93
+0
+2
+2
+TO_SOT_Packages_THT
+TO-218-2_SOT93_Horizontal_Reversed
+TO-218-2, Horizontal, RM 10.94mm, SOT93
+TO-218-2 Horizontal RM 10.94mm SOT93
+0
+2
+2
+TO_SOT_Packages_THT
+TO-218-2_SOT93_Vertical
+TO-218-2, Vertical, RM 10.94mm, SOT93
+TO-218-2 Vertical RM 10.94mm SOT93
+0
+2
+2
+TO_SOT_Packages_THT
+TO-218_SOT93_Horizontal
+TO-218, Horizontal, RM 5.47mm, SOT93
+TO-218 Horizontal RM 5.47mm SOT93
+0
+3
+3
+TO_SOT_Packages_THT
+TO-218_SOT93_Horizontal_Reversed
+TO-218, Horizontal, RM 5.47mm, SOT93
+TO-218 Horizontal RM 5.47mm SOT93
+0
+3
+3
+TO_SOT_Packages_THT
+TO-218_SOT93_Vertical
+TO-218, Vertical, RM 5.47mm, SOT93
+TO-218 Vertical RM 5.47mm SOT93
+0
+3
+3
+TO_SOT_Packages_THT
+TO-220-2_Horizontal
+TO-220-2, Horizontal, RM 5.08mm
+TO-220-2 Horizontal RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-220-2_Horizontal_Reversed
+TO-220-2, Horizontal, RM 5.08mm
+TO-220-2 Horizontal RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-220-2_Vertical
+TO-220-2, Vertical, RM 5.08mm
+TO-220-2 Vertical RM 5.08mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-220-3_Horizontal
+TO-220-3, Horizontal, RM 2.54mm
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-220-3_Horizontal_Reversed
+TO-220-3, Horizontal, RM 2.54mm
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-220-4_Horizontal
+TO-220-4, Horizontal, RM 2.54mm
+TO-220-4 Horizontal RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-220-4_Horizontal_Reversed
+TO-220-4, Horizontal, RM 2.54mm
+TO-220-4 Horizontal RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-220-4_Vertical
+TO-220-4, Vertical, RM 2.54mm
+TO-220-4 Vertical RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-220-5_Horizontal
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Horizontal_Reversed
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Horizontal_StaggeredType1
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Horizontal_StaggeredType2
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Vertical_StaggeredType1
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-5_Vertical_StaggeredType2
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
+0
+5
+5
+TO_SOT_Packages_THT
+TO-220-7_Horizontal_StaggeredType1
+TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-1
+TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-1
+0
+7
+7
+TO_SOT_Packages_THT
+TO-220-7_Horizontal_StaggeredType2
+TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-2
+TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-2
+0
+7
+7
+TO_SOT_Packages_THT
+TO-220-7_Vertical_StaggeredType1
+TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-1
+TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1
+0
+7
+7
+TO_SOT_Packages_THT
+TO-220-7_Vertical_StaggeredType2
+TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-2
+TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-2
+0
+7
+7
+TO_SOT_Packages_THT
+TO-220-8_Vertical
+TO-220-8 (Multiwatt8), Vertical, 2.54mm Pitch (http://www.st.com/resource/en/datasheet/tda7264.pdf)
+TO-220-9 Vertical 2.54mm Pitch Multiwatt 8
+0
+8
+8
+TO_SOT_Packages_THT
+TO-220-9_Horizontal_StaggeredType1
+TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-1
+TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-1
+0
+9
+9
+TO_SOT_Packages_THT
+TO-220-9_Horizontal_StaggeredType2
+TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-2
+TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-2
+0
+9
+9
+TO_SOT_Packages_THT
+TO-220-9_Vertical_StaggeredType1
+TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-1
+TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-1
+0
+9
+9
+TO_SOT_Packages_THT
+TO-220-9_Vertical_StaggeredType2
+TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-2
+TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-2
+0
+9
+9
+TO_SOT_Packages_THT
+TO-220-11_Horizontal_StaggeredType1
+TO-220-11, Horizontal, RM 1.7mm, Multiwatt-11, staggered type-1
+TO-220-11 Horizontal RM 1.7mm Multiwatt-11 staggered type-1
+0
+11
+11
+TO_SOT_Packages_THT
+TO-220-11_Horizontal_StaggeredType2
+TO-220-11, Horizontal, RM 1.7mm, Multiwatt-11, staggered type-2
+TO-220-11 Horizontal RM 1.7mm Multiwatt-11 staggered type-2
+0
+11
+11
+TO_SOT_Packages_THT
+TO-220-11_Vertical_StaggeredType1
+TO-220-11, Vertical, RM 1.7mm, Multiwatt-11, staggered type-1
+TO-220-11 Vertical RM 1.7mm Multiwatt-11 staggered type-1
+0
+11
+11
+TO_SOT_Packages_THT
+TO-220-11_Vertical_StaggeredType2
+TO-220-11, Vertical, RM 1.7mm, Multiwatt-11, staggered type-2
+TO-220-11 Vertical RM 1.7mm Multiwatt-11 staggered type-2
+0
+11
+11
+TO_SOT_Packages_THT
+TO-220-15_Horizontal_StaggeredType1
+TO-220-15, Horizontal, RM 1.27mm, Multiwatt-15, staggered type-1
+TO-220-15 Horizontal RM 1.27mm Multiwatt-15 staggered type-1
+0
+15
+15
+TO_SOT_Packages_THT
+TO-220-15_Horizontal_StaggeredType2
+TO-220-15, Horizontal, RM 1.27mm, Multiwatt-15, staggered type-2
+TO-220-15 Horizontal RM 1.27mm Multiwatt-15 staggered type-2
+0
+15
+15
+TO_SOT_Packages_THT
+TO-220-15_Vertical_StaggeredType1
+TO-220-15, Vertical, RM 1.27mm, Multiwatt-15, staggered type-1
+TO-220-15 Vertical RM 1.27mm Multiwatt-15 staggered type-1
+0
+15
+15
+TO_SOT_Packages_THT
+TO-220-15_Vertical_StaggeredType2
+TO-220-15, Vertical, RM 1.27mm, Multiwatt-15, staggered type-2
+TO-220-15 Vertical RM 1.27mm Multiwatt-15 staggered type-2
+0
+15
+15
+TO_SOT_Packages_THT
+TO-247-2_Horizontal
+TO-247-2, Horizontal, RM 10.9mm
+TO-247-2 Horizontal RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-247-2_Horizontal_Reversed
+TO-247-2, Horizontal, RM 10.9mm
+TO-247-2 Horizontal RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-247-2_Vertical
+TO-247-2, Vertical, RM 10.9mm
+TO-247-2 Vertical RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-247-4_Horizontal
+TO-247-4, Horizontal, RM 2.54mm
+TO-247-4 Horizontal RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-247-4_Horizontal_Reversed
+TO-247-4, Horizontal, RM 2.54mm
+TO-247-4 Horizontal RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-247-4_Vertical
+TO-247-4, Vertical, RM 2.54mm
+TO-247-4 Vertical RM 2.54mm
+0
+4
+4
+TO_SOT_Packages_THT
+TO-247-5_Horizontal
+TO-247-5, Horizontal, RM 2.54mm
+TO-247-5 Horizontal RM 2.54mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-247-5_Horizontal_Reversed
+TO-247-5, Horizontal, RM 2.54mm
+TO-247-5 Horizontal RM 2.54mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-247-5_Vertical
+TO-247-5, Vertical, RM 2.54mm
+TO-247-5 Vertical RM 2.54mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-247_TO-3P_Horizontal
+TO-247, Horizontal, RM 5.45mm, TO-3P
+TO-247 Horizontal RM 5.45mm TO-3P
+0
+3
+3
+TO_SOT_Packages_THT
+TO-247_TO-3P_Horizontal_Reversed
+TO-247, Horizontal, RM 5.45mm, TO-3P
+TO-247 Horizontal RM 5.45mm TO-3P
+0
+3
+3
+TO_SOT_Packages_THT
+TO-247_TO-3P_Vertical
+TO-247, Vertical, RM 5.45mm, TO-3P
+TO-247 Vertical RM 5.45mm TO-3P
+0
+3
+3
+TO_SOT_Packages_THT
+TO-251-1EP_IPAK_Horizontal
+TO-251, Horizontal, RM 2.3mm, IPAK
+TO-251 Horizontal RM 2.3mm IPAK
+0
+4
+4
+TO_SOT_Packages_THT
+TO-251-2-1EP_IPAK_Horizontal
+TO-251-2, Horizontal, RM 4.6mm, IPAK
+TO-251-2 Horizontal RM 4.6mm IPAK
+0
+3
+3
+TO_SOT_Packages_THT
+TO-251-2_IPAK_Vertical
+TO-251-2, Vertical, RM 4.6mm, IPAK
+TO-251-2 Vertical RM 4.6mm IPAK
+0
+2
+2
+TO_SOT_Packages_THT
+TO-251_IPAK_Vertical
+TO-251, Vertical, RM 2.3mm, IPAK
+TO-251 Vertical RM 2.3mm IPAK
+0
+3
+3
+TO_SOT_Packages_THT
+TO-262-1EP_I2PAK_Horizontal
+TO-262, Horizontal, RM 2.54mm, IIPAK, I2PAK
+TO-262 Horizontal RM 2.54mm IIPAK I2PAK
+0
+4
+4
+TO_SOT_Packages_THT
+TO-262_I2PAK_Vertical
+TO-262, Vertical, RM 2.54mm, IIPAK, I2PAK
+TO-262 Vertical RM 2.54mm IIPAK I2PAK
+0
+3
+3
+TO_SOT_Packages_THT
+TO-264-2_Horizontal
+TO-264-2, Horizontal, RM 10.9mm
+TO-264-2 Horizontal RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-264-2_Horizontal_Reversed
+TO-264-2, Horizontal, RM 10.9mm
+TO-264-2 Horizontal RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-264-2_Vertical
+TO-264-2, Vertical, RM 10.9mm
+TO-264-2 Vertical RM 10.9mm
+0
+2
+2
+TO_SOT_Packages_THT
+TO-264-5_Horizontal
+TO-264-5, Horizontal, RM 3.81mm
+TO-264-5 Horizontal RM 3.81mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-264-5_Horizontal_Reversed
+TO-264-5, Horizontal, RM 3.81mm
+TO-264-5 Horizontal RM 3.81mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-264-5_Vertical
+TO-264-5, Vertical, RM 3.81mm
+TO-264-5 Vertical RM 3.81mm
+0
+5
+5
+TO_SOT_Packages_THT
+TO-264_Horizontal
+TO-264, Horizontal, RM 5.45mm
+TO-264 Horizontal RM 5.45mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-264_Horizontal_Reversed
+TO-264, Horizontal, RM 5.45mm
+TO-264 Horizontal RM 5.45mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-264_Vertical
+TO-264, Vertical, RM 5.45mm
+TO-264 Vertical RM 5.45mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-280_Horizontal
+TO-280, Horizontal, RM 5.45mm
+TO-280 Horizontal RM 5.45mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-280_Horizontal_Reversed
+TO-280, Horizontal, RM 5.45mm
+TO-280 Horizontal RM 5.45mm
+0
+3
+3
+TO_SOT_Packages_THT
+TO-280_Vertical
+TO-280, Vertical, RM 5.45mm
+TO-280 Vertical RM 5.45mm
+0
+3
+3
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

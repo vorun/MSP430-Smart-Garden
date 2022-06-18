@@ -1173,4 +1173,15 @@ Wire Wire Line
 	2050 3500 2550 3500
 Wire Wire Line
 	1600 3050 2050 3050
+$Comp
+L Connector:Conn_01x04_Female J7
+U 1 1 62ACDE9B
+P 4750 3150
+F 0 "J7" H 4778 3126 50  0000 L CNN
+F 1 "HC-05 3D" H 4778 3035 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 4750 3150 50  0001 C CNN
+F 3 "~" H 4750 3150 50  0001 C CNN
+	1    4750 3150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
