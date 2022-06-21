@@ -14,5 +14,8 @@ amount times which are 3 seconds, 7 seconds and 10 seconds.
 -Pin connections and circuit design/PCB of the project can be found at the 
 "C# Based Smart Gardener Final PCB" folder.
 
+IMPORTANT NOTE
+- Heat characteristics of the transistors are not suited for 500 mA's of current(basically they will blow off xd). Will uptade the design with MOSFETs and MOSFET drivers when i have the time.
+
 Orhun Dabak
 
