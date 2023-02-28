@@ -14,8 +14,11 @@ amount times which are 3 seconds, 7 seconds and 10 seconds.
 -Pin connections and circuit design/PCB of the project can be found at the 
 "C# Based Smart Gardener Final PCB" folder.
 
+For demo: https://www.youtube.com/watch?v=NzMayukbllw
+
 Note
 -Updated PCB with MOSFETs and gate drivers.
 
 Orhun Dabak
+![PCB 3D View (1)](https://user-images.githubusercontent.com/79105578/221883694-21488782-fb6a-4a08-afda-7b171a35e80d.png)
 
