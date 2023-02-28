@@ -19,7 +19,7 @@ For demo: https://www.youtube.com/watch?v=NzMayukbllw
 Note
 -Updated PCB with MOSFETs and gate drivers.
 
-Orhun Dabak
+Orhun Dabak/Ahmet Özbaysar
 ![PCB 3D View (1)](https://user-images.githubusercontent.com/79105578/221883694-21488782-fb6a-4a08-afda-7b171a35e80d.png)
 ![Picture_C#](https://user-images.githubusercontent.com/79105578/221884982-1fcb850e-7cd5-49a1-a3d2-446d575522a5.png)
 
