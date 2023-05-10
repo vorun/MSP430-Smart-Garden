@@ -1,4 +1,4 @@
-# Smart-Garden
+# MSP430-Smart-Garden
 
 This project is a smart agricultural system based on C# using MSP430 microcontroller.
 
